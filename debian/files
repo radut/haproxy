@@ -1,0 +1,3 @@
+haproxy-doc_2.1.0-dev1~bionic_all.deb doc optional
+haproxy_2.1.0-dev1~bionic_all.buildinfo net optional
+vim-haproxy_2.1.0-dev1~bionic_all.deb net optional

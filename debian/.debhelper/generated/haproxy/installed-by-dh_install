@@ -1,0 +1,8 @@
+./debian/haproxy.cfg
+./examples/errorfiles/400.http
+./examples/errorfiles/403.http
+./examples/errorfiles/408.http
+./examples/errorfiles/500.http
+./examples/errorfiles/502.http
+./examples/errorfiles/503.http
+./examples/errorfiles/504.http

@@ -1,0 +1,6 @@
+9de860a3940774dc9276cd749dba75b2  usr/share/doc/vim-haproxy/NEWS.Debian.gz
+6ba89c9fb778dc37b8355bd621913bf9  usr/share/doc/vim-haproxy/changelog.Debian.gz
+1022509206b3097d99977f3c928b74a7  usr/share/doc/vim-haproxy/copyright
+7e8a8692581a03e6971e8bf16b566d16  usr/share/vim/addons/ftdetect/haproxy.vim
+a76c22be4ceed7b63409b34d45c2609e  usr/share/vim/addons/syntax/haproxy.vim
+cb6190a581b9032fb18a0a66836b680e  usr/share/vim/registry/vim-haproxy.yaml

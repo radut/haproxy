@@ -1,0 +1,6 @@
+./examples/acl-content-sw.cfg
+./examples/content-sw-sample.cfg
+./examples/option-http_proxy.cfg
+./examples/socks4.cfg
+./examples/transparent_proxy.cfg
+./examples/wurfl-example.cfg
